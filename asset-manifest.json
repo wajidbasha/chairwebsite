@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/chairwebsite/static/css/main.dd765169.css",
+    "main.js": "/chairwebsite/static/js/main.671ad36e.js",
+    "static/js/787.7ef07230.chunk.js": "/chairwebsite/static/js/787.7ef07230.chunk.js",
+    "static/media/chi.png": "/chairwebsite/static/media/chi.d3e19288c3f8ce5b48d4.png",
+    "static/media/sitch.png": "/chairwebsite/static/media/sitch.428532cb8448f22da04d.png",
+    "static/media/chair1.png": "/chairwebsite/static/media/chair1.63ccbc8f79df99e15fc4.png",
+    "static/media/chair.png": "/chairwebsite/static/media/chair.e1d3fd0a02f8c136c1f7.png",
+    "static/media/chairbanner.jpg": "/chairwebsite/static/media/chairbanner.23bac19ad666902174de.jpg",
+    "static/media/bannerdesent.jpg": "/chairwebsite/static/media/bannerdesent.2f667fea878fe7bd0695.jpg",
+    "static/media/banner.jpg": "/chairwebsite/static/media/banner.c6764a0fd6abcaf48444.jpg",
+    "static/media/chair5.png": "/chairwebsite/static/media/chair5.381fb6066b0abe2ec66b.png",
+    "static/media/chair7.png": "/chairwebsite/static/media/chair7.fc977a1a6b78ea90928e.png",
+    "static/media/company.png": "/chairwebsite/static/media/company.15d117448425da60ade4.png",
+    "static/media/chair6.png": "/chairwebsite/static/media/chair6.00b65a6c0e76f98df495.png",
+    "static/media/chair2.png": "/chairwebsite/static/media/chair2.331749bf4e1412f144ac.png",
+    "static/media/chair4.png": "/chairwebsite/static/media/chair4.79ad6bb6c8546a35668a.png",
+    "static/media/chair3.png": "/chairwebsite/static/media/chair3.bcf04a618b5ad532f692.png",
+    "index.html": "/chairwebsite/index.html",
+    "main.dd765169.css.map": "/chairwebsite/static/css/main.dd765169.css.map",
+    "main.671ad36e.js.map": "/chairwebsite/static/js/main.671ad36e.js.map",
+    "787.7ef07230.chunk.js.map": "/chairwebsite/static/js/787.7ef07230.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd765169.css",
+    "static/js/main.671ad36e.js"
+  ]
+}
