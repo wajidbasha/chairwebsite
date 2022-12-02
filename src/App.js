@@ -26,6 +26,9 @@ function App() {
       
       <BrowserRouter>
       <Head add={cart} setAdd={setCart} cartdata={cartdata}></Head>
+  <Routes>
+      <Route path='/' element={<Products setCartData={setCartData} > </Products>}></Route>
+      </Routes>
       <Routes>
       <Route path='/chairwebsite/' element={<Products setCartData={setCartData} > </Products>}></Route>
       </Routes>
